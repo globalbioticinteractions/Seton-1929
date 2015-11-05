@@ -1,1 +1,2 @@
-
+sourceTaxonId	sourceTaxonName	interactionTypeId	interactionTypeName	targetTaxonId	targetTaxonName	localityId	localityName	decimalLatitude	decimalLongitude	observationDateTime	referenceDoi	referenceCitation
+EOL:328584	Lutra canadensis	http://eol.org/schema/terms/kills	kills	EOL:328025	Castor canadensis	GEONAMES:4971068	Maine					Seton, E.T. (1929) Lives of Game Animals. Doubleday, Doran & Co., Garden City N.Y., 506 pp.
