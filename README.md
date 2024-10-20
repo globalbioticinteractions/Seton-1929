@@ -1,9 +1,8 @@
-[![DOI](https://zenodo.org/badge/45627786.svg)](https://zenodo.org/badge/latestdoi/45627786)
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/seton-1929)](https://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/seton-1929) 
+
 
 # Seton-1929
-The mysterious interaction resource that will be available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
-
-All records have links to EOL records.
+The mysterious interaction resource claiming that otters eat beavers as made through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org). For context see https://github.com/globalbioticinteractions/globalbioticinteractions/issues/118 and https://github.com/globalbioticinteractions/globalbioticinteractions/issues/142 .
 
 ## Data Format Explanation
 The file [interactions.tsv](./interactions.tsv) is a suggestion on how to encode your interaction data using a tab separated file format (tsv) in combination with columns described below. This provides an example on how to capture your data in a human and machine friendly way and keep it relatively doable to update the file using a basic text editor. Other formats are supported, just let us know about the syntax, and we'll make it work.
